@@ -116,8 +116,9 @@ Login Instructions
     Enter your password
 
     Click "Login" to access your dashboard
+    
  
-    🔒 Security Features
+🔒 Security Features
 
     Developed by cybersecurity student following security best practices
 
@@ -129,6 +130,7 @@ Login Instructions
 
     
 👥 User Roles
+
 Administrator
 
     Full system access
@@ -147,22 +149,20 @@ Class Teacher
 
     
 
-    📱 User Interfaces
+📱 User Interfaces
 
  Management Modules
 
-    Classes: Create and manage academic classes
-
-    Teachers: Register and assign class teachers
-
-    Students: View and manage student records
-
-    Attendance: Track and view attendance data
-
-
+Classes: Create and manage academic classes
 <img width="1919" height="1036" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/9dbe2adf-fb4c-4e2d-ac80-4e7e28675b3f" />
+
+ Teachers: Register and assign class teachers
 <img width="1919" height="1037" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/1fad53ff-ec75-4735-bd24-2a60b0a2b79a" />
+
+ Students: View and manage student records
 <img width="1919" height="1032" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/3ac8ccd3-7fd6-4419-b279-aea57a164183" />
+
+ Sessions & Terms: Create and manage sessions and terms
 <img width="1919" height="1033" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/e3463b2e-10b2-4672-abb2-82f8596b599d" />
 
 Administrator Dashboard
@@ -174,7 +174,7 @@ Administrator Dashboard
     Real-time system metrics
 <img width="1919" height="1033" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/3da29af0-791a-49e6-aba6-6a403b678a27" />
 
-<img width="1919" height="1032" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/d5fd10f1-6af0-4e3b-81c0-fd02b037b9e1" />
+
 
 Class Teacher Dashboard
 
@@ -185,7 +185,7 @@ Class Teacher Dashboard
     Personal welcome greeting
 <img width="1919" height="1035" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/a22670b5-ccd3-4456-8b7c-4fab63d1196c" />
 
-    📅 Attendance Workflow
+📅 Attendance Workflow
 
     Class teachers access "Take Attendance" for their assigned classes
 
