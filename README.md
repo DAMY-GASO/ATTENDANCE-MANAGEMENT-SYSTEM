@@ -116,35 +116,8 @@ Login Instructions
     Enter your password
 
     Click "Login" to access your dashboard
-    <img width="1900" height="1035" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/96b79271-7059-449f-8e3b-6d4b7253b5c3" />
-
-    
-
-    📱 User Interfaces
-
-   Management Modules
-
-    Classes: Create and manage academic classes
-
-    Teachers: Register and assign class teachers
-
-    Students: View and manage student records
-
-    Attendance: Track and view attendance data
-
-
-
-    📅 Attendance Workflow
-
-    Class teachers access "Take Attendance" for their assigned classes
-
-    Mark attendance using checkbox system for each student
-
-    Submit attendance with success confirmation
-
-    View historical data filtered by date, student, or term
-
-🔒 Security Features
+ 
+    🔒 Security Features
 
     Developed by cybersecurity student following security best practices
 
@@ -154,6 +127,7 @@ Login Instructions
 
     Data protection measures
 
+    
 👥 User Roles
 Administrator
 
@@ -171,12 +145,19 @@ Class Teacher
 
     Student viewing permissions
 
-📞 Support
+    
 
-For technical support or inquiries, please contact the development team.
+    📱 User Interfaces
 
-© 2025 - Developed by FURAHA MIHANG, CYBER SECURITY STUDENT
+ Management Modules
 
+    Classes: Create and manage academic classes
+
+    Teachers: Register and assign class teachers
+
+    Students: View and manage student records
+
+    Attendance: Track and view attendance data
 
 
 <img width="1919" height="1036" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/9dbe2adf-fb4c-4e2d-ac80-4e7e28675b3f" />
@@ -204,8 +185,26 @@ Class Teacher Dashboard
     Personal welcome greeting
 <img width="1919" height="1035" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/a22670b5-ccd3-4456-8b7c-4fab63d1196c" />
 
+    📅 Attendance Workflow
+
+    Class teachers access "Take Attendance" for their assigned classes
+
+    Mark attendance using checkbox system for each student
+
+    Submit attendance with success confirmation
+
+    View historical data filtered by date, student, or term
+
 <img width="1919" height="1032" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/a3324028-42f9-4eb1-8830-d2ba92f2c02a" />
 <img width="1919" height="1033" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/b98511f1-37e3-4746-bb93-57823e9654ee" />
 <img width="1919" height="1036" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/bd3ce699-353c-4a28-adcb-78327467ac68" />
 <img width="1919" height="1033" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/c59d2ccf-95ae-4c31-b3e1-001be4baa749" />
 <img width="1919" height="1029" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/5156778e-0c06-42a2-b679-17ff36cbe80b" />
+
+
+📞 Support
+
+For technical support or inquiries, please contact the development team.
+
+© 2025 - Developed by DAMAS GAMBO, CYBER SECURITY STUDENT
+
