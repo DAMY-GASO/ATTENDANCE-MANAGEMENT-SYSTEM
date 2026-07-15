@@ -121,24 +121,8 @@ Login Instructions
     
 
     📱 User Interfaces
-Administrator Dashboard
 
-    Centralized statistics overview
-
-    Quick access to all management modules
-
-    Real-time system metrics
-    <img width="1919" height="1030" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/dac0adb2-b855-4ad6-a99e-16e5cea2673d" />
-
-Class Teacher Dashboard
-
-    Class-specific student lists
-
-    Attendance marking interface
-
-    Personal welcome greeting
-
-Management Modules
+   Management Modules
 
     Classes: Create and manage academic classes
 
@@ -199,9 +183,27 @@ For technical support or inquiries, please contact the development team.
 <img width="1919" height="1037" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/1fad53ff-ec75-4735-bd24-2a60b0a2b79a" />
 <img width="1919" height="1032" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/3ac8ccd3-7fd6-4419-b279-aea57a164183" />
 <img width="1919" height="1033" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/e3463b2e-10b2-4672-abb2-82f8596b599d" />
+
+Administrator Dashboard
+
+    Centralized statistics overview
+
+    Quick access to all management modules
+
+    Real-time system metrics
 <img width="1919" height="1033" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/3da29af0-791a-49e6-aba6-6a403b678a27" />
+
 <img width="1919" height="1032" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/d5fd10f1-6af0-4e3b-81c0-fd02b037b9e1" />
+
+Class Teacher Dashboard
+
+    Class-specific student lists
+
+    Attendance marking interface
+
+    Personal welcome greeting
 <img width="1919" height="1035" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/a22670b5-ccd3-4456-8b7c-4fab63d1196c" />
+
 <img width="1919" height="1032" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/a3324028-42f9-4eb1-8830-d2ba92f2c02a" />
 <img width="1919" height="1033" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/b98511f1-37e3-4746-bb93-57823e9654ee" />
 <img width="1919" height="1036" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/bd3ce699-353c-4a28-adcb-78327467ac68" />
