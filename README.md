@@ -116,6 +116,9 @@ Login Instructions
     Enter your password
 
     Click "Login" to access your dashboard
+    <img width="1900" height="1035" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/96b79271-7059-449f-8e3b-6d4b7253b5c3" />
+
+    
 
     📱 User Interfaces
 Administrator Dashboard
@@ -125,7 +128,7 @@ Administrator Dashboard
     Quick access to all management modules
 
     Real-time system metrics
-<img width="1900" height="1035" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/96b79271-7059-449f-8e3b-6d4b7253b5c3" />
+    <img width="1919" height="1030" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/dac0adb2-b855-4ad6-a99e-16e5cea2673d" />
 
 Class Teacher Dashboard
 
@@ -191,7 +194,7 @@ For technical support or inquiries, please contact the development team.
 © 2025 - Developed by FURAHA MIHANG, CYBER SECURITY STUDENT
 
 
-<img width="1919" height="1030" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/dac0adb2-b855-4ad6-a99e-16e5cea2673d" />
+
 <img width="1919" height="1036" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/9dbe2adf-fb4c-4e2d-ac80-4e7e28675b3f" />
 <img width="1919" height="1037" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/1fad53ff-ec75-4735-bd24-2a60b0a2b79a" />
 <img width="1919" height="1032" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/3ac8ccd3-7fd6-4419-b279-aea57a164183" />
